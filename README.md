@@ -4,6 +4,7 @@
 ![Xubuntu](https://img.shields.io/badge/Xubuntu-blue?style=for-the-badge&logo=xfce&logoColor=white)
 ![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
+
 A lightweight Linux background utility that monitors battery health and forces you to plug in your charger when energy levels are critical.
 
 ## 🚀 Features
